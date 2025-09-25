@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-light-background text-light-text dark:bg-dark-background dark:text-dark-text transition-colors duration-300;
+}
