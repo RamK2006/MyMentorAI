@@ -27,16 +27,3 @@ frontend/build
 # Test reports
 frontend/coverage
 
-# --- OS / IDE Specific ---
-
-# macOS
-.DS_Store
-
-# Windows
-Thumbs.db
-
-# VSCode editor
-.vscode/
-
-# JetBrains IDEs (WebStorm, etc.)
-.idea/
